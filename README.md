@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santoshairi
-- 👀 I’m interested in CI-CD
+- 👀 I’m interested in CI-CD tools
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
