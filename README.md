@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @santoshairi
-- 👀 I’m interested in CI-CD tools
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+DevOps | AWS | Linux | Docker | Kubernetes | Jenkins | Ansible | Terraform | Python | Git & GitHub | Zabbix | Grafana | Prometheus | Windows Server
 
 <!---
 santoshairi/santoshairi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
