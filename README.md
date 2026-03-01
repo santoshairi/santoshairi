@@ -1,16 +1,110 @@
-Hi, I'm Santosh 👋
+👋 Hi, I'm Santosh Airi
 
----
-Cloud & DevOps Engineer
----
-About Me
-I’m a passionate and solution-oriented DevOps Engineer with over 14 years of experience in IT, focused on driving automation, scalability, and high availability in modern infrastructure environments. My journey began in system administration, evolved through networking, Windows and Linux server deployments, and cloud technologies, ultimately maturing into full-fledged DevOps, CI/CD, and Kubernetes-based delivery
+🚀 DevOps Engineer | Cloud Enthusiast | 13+ Years IT Experience
+🔧 AWS | Docker | Kubernetes | Jenkins | Linux | Terraform | Ansible | Git | CI/CD | Monitoring
 
----
-Skills & Tools
-DevOps | Azure DevOps | AWS | Amazon Q | Linux | Docker | Kubernetes | Jenkins | Argo CD | Ansible | Terraform | Python | Git & GitHub | Zabbix | Grafana | Prometheus | Active Directory | Windows Server
+💡 About Me
 
-<!---
-santoshairi/santoshairi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a passionate DevOps Engineer with 13+ years of IT experience, specializing in:
+
+🔹 Cloud & Infrastructure Automation
+
+🔹 Containerization & Orchestration
+
+🔹 CI/CD Pipeline Implementation
+
+🔹 Monitoring & Performance Optimization
+
+🔹 Production-Grade Kubernetes Deployments
+
+I love building scalable, automated, and production-ready infrastructure.
+
+"Automation is not a tool. It is a mindset." ⚙️
+
+🛠️ Technical Skills
+☁️ Cloud
+
+AWS (EC2, IAM, VPC, S3, Route53)
+
+🐳 Containers & Orchestration
+
+Docker
+
+Docker Compose
+
+Kubernetes (Multi-master setup, Calico, MetalLB, NGINX Ingress)
+
+🔁 CI/CD
+
+Jenkins (Pipeline as Code)
+
+GitHub Actions
+
+Git & GitHub
+
+📦 Infrastructure as Code
+
+Terraform
+
+Ansible
+
+📊 Monitoring & Logging
+
+Prometheus
+
+Grafana
+
+Zabbix
+
+💻 OS & Scripting
+
+Linux (Ubuntu, CentOS)
+
+Bash Scripting
+
+🏆 Certifications
+
+✅ Docker Certified
+
+✅ Kubernetes Certified
+
+MCP
+
+Linux Administration
+
+🚀 Featured Projects
+🔹 Kubernetes Multi-Node Cluster
+
+Deployed on Ubuntu 22.04
+
+Calico Networking
+
+MetalLB LoadBalancer
+
+NGINX Ingress Controller
+
+Staging & Production Namespaces
+
+🔹 Jenkins CI/CD Pipeline
+
+Automated Docker build & push
+
+Deployed to Kubernetes automatically
+
+Namespace-based deployments
+
+🔹 Docker Image Optimization
+
+Reduced image size from 1.13GB → 63MB
+
+Multi-stage build implementation
+
+Security & performance optimization
+
+🔹 Three-Tier Application with AI Integration
+
+Docker Compose
+
+Separate networks & volumes
+
+Integrated Ollama AI
