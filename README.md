@@ -1,110 +1,68 @@
-👋 Hi, I'm Santosh Airi
+<h1 align="center">Hi 👋, I'm Santosh Airi</h1>
+<h3 align="center">DevOps Engineer | Cloud & Kubernetes Specialist | 13+ Years IT Experience</h3>
 
-🚀 DevOps Engineer | Cloud Enthusiast | 13+ Years IT Experience
-🔧 AWS | Docker | Kubernetes | Jenkins | Linux | Terraform | Ansible | Git | CI/CD | Monitoring
+<p align="center">
+  <em>Designing scalable infrastructure. Automating everything. Shipping faster.</em>
+</p>
 
-💡 About Me
+---
 
-I am a passionate DevOps Engineer with 13+ years of IT experience, specializing in:
+## 🚀 About Me
 
-🔹 Cloud & Infrastructure Automation
+🔹 DevOps Engineer with 13+ years of IT experience  
+🔹 Specialized in Docker, Kubernetes & CI/CD automation  
+🔹 Strong hands-on with AWS & Production Infrastructure  
+🔹 Passionate about performance optimization & clean architecture  
 
-🔹 Containerization & Orchestration
+> “First automate. Then optimize. Then scale.” ⚡
 
-🔹 CI/CD Pipeline Implementation
+---
 
-🔹 Monitoring & Performance Optimization
+## 🛠 Tech Stack
 
-🔹 Production-Grade Kubernetes Deployments
+### ☁️ Cloud
+AWS | VPC | EC2 | IAM | S3
 
-I love building scalable, automated, and production-ready infrastructure.
+### 🐳 Containers
+Docker | Docker Compose | Kubernetes | Calico | MetalLB | NGINX Ingress
 
-"Automation is not a tool. It is a mindset." ⚙️
+### 🔁 CI/CD
+Jenkins | GitHub Actions | Git | GitHub
 
-🛠️ Technical Skills
-☁️ Cloud
+### 📦 IaC & Automation
+Terraform | Ansible | Bash
 
-AWS (EC2, IAM, VPC, S3, Route53)
+### 📊 Monitoring
+Prometheus | Grafana | Zabbix
 
-🐳 Containers & Orchestration
+---
 
-Docker
+## 🧠 What I’ve Built
 
-Docker Compose
+✔ Multi-node Kubernetes Cluster (Production-ready setup)  
+✔ Jenkins Pipeline deploying directly to Kubernetes  
+✔ Reduced Docker image size from **1.13GB → 63MB (94% optimization)**  
+✔ Three-tier containerized application with AI integration  
+✔ Monitoring stack with Prometheus & Grafana  
 
-Kubernetes (Multi-master setup, Calico, MetalLB, NGINX Ingress)
+---
 
-🔁 CI/CD
+## 🎯 Current Focus
 
-Jenkins (Pipeline as Code)
+• Cloud-native architecture  
+• DevSecOps practices  
+• High-availability Kubernetes clusters  
+• Infrastructure automation at scale  
 
-GitHub Actions
+---
 
-Git & GitHub
+## 🤝 Connect With Me
 
-📦 Infrastructure as Code
+📫 Add your email here  
+💼 Add your LinkedIn link here  
 
-Terraform
+---
 
-Ansible
-
-📊 Monitoring & Logging
-
-Prometheus
-
-Grafana
-
-Zabbix
-
-💻 OS & Scripting
-
-Linux (Ubuntu, CentOS)
-
-Bash Scripting
-
-🏆 Certifications
-
-✅ Docker Certified
-
-✅ Kubernetes Certified
-
-MCP
-
-Linux Administration
-
-🚀 Featured Projects
-🔹 Kubernetes Multi-Node Cluster
-
-Deployed on Ubuntu 22.04
-
-Calico Networking
-
-MetalLB LoadBalancer
-
-NGINX Ingress Controller
-
-Staging & Production Namespaces
-
-🔹 Jenkins CI/CD Pipeline
-
-Automated Docker build & push
-
-Deployed to Kubernetes automatically
-
-Namespace-based deployments
-
-🔹 Docker Image Optimization
-
-Reduced image size from 1.13GB → 63MB
-
-Multi-stage build implementation
-
-Security & performance optimization
-
-🔹 Three-Tier Application with AI Integration
-
-Docker Compose
-
-Separate networks & volumes
-
-Integrated Ollama AI
+<p align="center">
+  ⚡ Always learning. Always building. Always automating.
+</p>
