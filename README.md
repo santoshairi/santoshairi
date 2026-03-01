@@ -7,33 +7,31 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🔹 DevOps Engineer with 13+ years of IT experience  
-🔹 Specialized in Docker, Kubernetes & CI/CD automation  
-🔹 Strong hands-on with AWS & Production Infrastructure  
-🔹 Passionate about performance optimization & clean architecture  
-
-> “First automate. Then optimize. Then scale.” ⚡
+I’m a passionate and solution-oriented DevOps Engineer with over 14 years of experience in IT, including 3+ years of focused experience in DevOps and Cloud technologies, dedicated to driving automation, scalability, and high availability in modern infrastructure environments. My journey began in system administration and evolved through networking, Windows and Linux server deployments, and cloud platforms, ultimately maturing into full-fledged DevOps practices, CI/CD automation, containerization, and Kubernetes-based delivery.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### ☁️ Cloud
-AWS | VPC | EC2 | IAM | S3
+AWS | VPC | EC2 | IAM | S3 | RDS | lambda function
 
 ### 🐳 Containers
 Docker | Docker Compose | Kubernetes | Calico | MetalLB | NGINX Ingress
 
 ### 🔁 CI/CD
-Jenkins | GitHub Actions | Git | GitHub
+Jenkins | GitHub Actions | Git Lab
 
 ### 📦 IaC & Automation
 Terraform | Ansible | Bash
 
 ### 📊 Monitoring
 Prometheus | Grafana | Zabbix
+
+### 📦 Scripting
+Python | Bash | Groovy
 
 ---
 
@@ -43,7 +41,7 @@ Prometheus | Grafana | Zabbix
 ✔ Jenkins Pipeline deploying directly to Kubernetes  
 ✔ Reduced Docker image size from **1.13GB → 63MB (94% optimization)**  
 ✔ Three-tier containerized application with AI integration  
-✔ Monitoring stack with Prometheus & Grafana  
+✔ Monitoring stack with Zabbix & Grafana  
 
 ---
 
@@ -58,8 +56,8 @@ Prometheus | Grafana | Zabbix
 
 ## 🤝 Connect With Me
 
-📫 Add your email here  
-💼 Add your LinkedIn link here  
+
+💼 www.linkedin.com/in/santoshairi  
 
 ---
 
