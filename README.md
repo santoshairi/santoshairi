@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santosh Airi</h1>
+<h1 align="center">Hi 👋, I'm Santosh Kumar Airi</h1>
 <h3 align="center">DevOps Engineer (3+ Years) | Cloud & Kubernetes Specialist | Total 14+ Years IT Experience</h3>
 
 <p align="center">
