@@ -9,7 +9,7 @@
 
 ##  About Me
 
-I’m a passionate and solution-oriented DevOps Engineer with over 14 years of experience in IT, including 3+ years of focused experience in DevOps and Cloud technologies, dedicated to driving automation, scalability, and high availability in modern infrastructure environments. My journey began in system administration and evolved through networking, Windows and Linux server deployments, and cloud platforms, ultimately maturing into full-fledged DevOps practices, CI/CD automation, containerization, and Kubernetes-based delivery.
+I’m a passionate and solution-oriented DevOps Engineer with over 15 years of experience in IT, including 3+ years of focused experience in DevOps and Cloud technologies, dedicated to driving automation, scalability, and high availability in modern infrastructure environments. My journey began in system administration and evolved through networking, Windows and Linux server deployments, and cloud platforms, ultimately maturing into full-fledged DevOps practices, CI/CD automation, containerization, and Kubernetes-based delivery.
 
 ---
 
